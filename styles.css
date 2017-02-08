@@ -1,0 +1,14 @@
+ul.nav li{
+    display: inline-block;
+    padding-right: 10px;
+}
+a{background-color: red; color: white}
+
+.color-info {border: 3px;
+	border-color: black; 
+	border-style: solid;
+	background-color: #6495ED}
+.color-info2 {border: 3px;
+	border-color: black; 
+	border-style: solid;
+	background-color:#FFEBCD}
